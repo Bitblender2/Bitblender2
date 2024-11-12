@@ -6,6 +6,8 @@
 
 
 
+
+
 - 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
@@ -13,5 +15,7 @@
 - 💬 Ask me about **Android , MEARN**
 
 - 📫 How to reach me **wkaimah2@gmail.com**
+
+  
 
 
